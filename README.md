@@ -9,5 +9,5 @@ I'm Full Stack Developer
 Connect with me:
 ngutierrezplaza nicolas-gutierrez-50a358248
 
-Languages and Tools:
+Languages and Tools:.
 babel bash css3 express git html5 javascript jest mongodb mysql nodejs postgresql react reactnative redux typescript webpack
